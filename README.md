@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vednik123" alt="vednik123" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Tailwind and started with backend part**
+- 🌱 MERN Stack Developer
 
 - 📫 How to reach me **nikam.vedant05@gmail.com**
 
